@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Denis, and I'm new!
-- 👀 I’m interested in Robotics, Music Production, and Math.
-- 🌱 I’m currently learning Python 3 Programing
-- 💞️ I’m looking to collaborate on Modeling Design
-- 📫 To reach me, dm me on disocrd or email at denisgk85@gmail.com
-
-Talk to me if you wanna work together on design :D (Not programing though, still learning that!)
+- 👀 I’m learning code right now, to make the software and programs I use, work the way I want it to.
+- 🌱 I’m currently learning C++ Programing, hoping to learn Python.`
+- 📫 To reach me, dm me on disocrd (Define_Denis#4099 or email at denisgk85@icloud.com
