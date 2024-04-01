@@ -1,6 +1,0 @@
-- 👋 Hi there, My name's Denis.
-- 👀 I use Github to make things I use work the way I want them to.
-- 🌱 I’m currently learning XML, HTML, & Python.
-- 📫 To reach me, dm me on disocrd (definedenis#4099) or email at (denisgk85@icloud.com)
-- 🇺🇦 I'm Ukrainian; if you have an issue with that, please don't collaborate with me.
-- 🗣 I am bilingual, I speak Ukrainian and English fluently. I'm conversational in Russian.
